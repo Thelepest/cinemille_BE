@@ -8,7 +8,6 @@ Cinemille is a backend application built with Spring Boot designed to check the 
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Running the Application](#running-the-application)
-- [Testing](#testing)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
   
@@ -64,12 +63,6 @@ The application should now be running on http://localhost:8080.
 
 2. Populate the database using the **cinemille.sql** script in the project root folder
 
-
-3. Testing
-To run tests, use the following Maven command:
-
-    ```xml
-    mvn test
 ## API Documentation
 
 The API documentation is generated using Swagger. Once the application is running, you can access the Swagger UI at:
