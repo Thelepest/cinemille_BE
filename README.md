@@ -35,7 +35,6 @@ Install Maven dependencies:
 1. **Database Configuration**:
 
 Create a database in MariaDB:
-    ```sql
     
     CREATE DATABASE cinemille;
 2. Check the **application.properties** file located in src/main/resources for the database configuration:
